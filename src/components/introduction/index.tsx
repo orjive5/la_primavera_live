@@ -15,7 +15,7 @@ const Introduction = () => {
       <div className="mt-5 mb-10 leading-none tracking-wide text-center">
         <div>
           <p className="text-3xl sm:text-4xl md:text-4xl lg:text-5xl font-semibold">Gudački Kvartet</p>
-          <h1 className="inline-block text-5xl sm:text-6xl md:text-6xl lg:text-7xl font-bold">
+          <h1 className="inline-block text-4xl sm:text-6xl md:text-6xl lg:text-7xl font-bold">
             LA PRIMAVERA
           </h1>
         </div>
