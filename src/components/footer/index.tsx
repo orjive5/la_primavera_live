@@ -16,7 +16,7 @@ const Footer = () => {
           />
         </Link>
         <h2 className="text-center">
-          Copyright &copy; 2024 La Primavera Quartet. All rights reserved
+          &copy; 2024 La Primavera Quartet. Sva prava zadržana.
         </h2>
       </div>
       <div className="bg-[#FFF4D0] absolute bottom-[-56px] h-32 w-full z-0"></div>
