@@ -13,10 +13,10 @@ import { photoUrls } from "./constants";
 
 export const ImageCarousel = () => {
     return (
-        <Carousel className="w-full">
+        <Carousel>
             <CarouselContent>
                 {photoUrls.map((item, index) => (
-                    <CarouselItem>
+                    <CarouselItem className="cursor-grab">
                         <AspectRatio
                             className="overflow-hidden rounded-lg"
                             ratio={4 / 3}

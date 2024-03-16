@@ -7,7 +7,7 @@ const Navbar = () => {
 
   return (
     <nav className="backdrop-blur z-10 flex justify-between items-center left-0 top-0 py-5 px-5 md:px-10 lg:px-40 2xl:px-80 fixed z-20 w-full">
-      <Link href='#home' className="flex items-center relative h-24">
+      <Link href='#home' className="flex items-center relative h-16 xl:h-24">
         <Image
           src="/logo.png"
           width="0"

@@ -17,11 +17,11 @@ const SideDrawer = () => {
         <div className="block lg:hidden">
             <Sheet>
                 <SheetTrigger>
-                    <Menu className="w-7 h-7 text-black opacity-80 hover:opacity-100 cursor-pointer" />
+                    <Menu className="w-6 h-6 xl:w-7 xl:h-7 text-black opacity-80 hover:opacity-100 cursor-pointer" />
                 </SheetTrigger>
                 <SheetContent className="bg-[#fefbef] w-[200px] sm:w-[300px]">
                     <SheetHeader>
-                        <SheetTitle>
+                        <SheetTitle className="text-base xl:text-lg">
                             La Primavera
                         </SheetTitle>
                         <Separator />
