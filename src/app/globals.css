@@ -59,15 +59,15 @@
 
   .music-gradient {
     background-color: #ff525a;
-    background-position: top;
-    background-image: url("/laprimaveragradient3.webp");
+    background-position: bottom;
+    background-image: url("/gradient1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   .contact-bg {
     background-color: #ff525a;
-    background-image: url("/laprimaveragradient3.webp");
+    background-image: url("/gradient1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
