@@ -10,7 +10,7 @@ const About = () => {
       </h2>
       <article className="text-base md:text-2xl text-center md:text-left leading-normal flex flex-col gap-4 xl:gap-10">
         <p>
-          Mi smo dinamičan ansambl muzičara koji nastoji da stvara nezaboravne trenutke prilagođene vašoj jedinstvenoj prilici. Predstavićemo raznoliki repertoar koji obuhvata klasična remek-dela, savremene hitove i personalizovane aranžmane. Bilo da se radi o venčanju, romantičnoj večeri, korporativnom događaju ili privatnom okupljanju, dozvolite nam nam da vašem posebnom danu dodamo dašak elegancije i šarma.
+          Mi smo dinamičan ansambl muzičara koji nastoji da stvara nezaboravne trenutke prilagođene vašoj jedinstvenoj prilici. Predstavićemo raznoliki repertoar koji obuhvata klasična remek-dela, savremene hitove i personalizovane aranžmane. Bilo da se radi o venčanju, romantičnoj večeri, korporativnom događaju ili privatnom okupljanju, dozvolite nam da vašem posebnom danu dodamo dašak elegancije i šarma.
         </p>
       </article>
     </section>
