@@ -1,11 +1,13 @@
 export const Video = () => {
     return (
-        <div className='aspect-video relative rounded w-full 2xl:w-[800px]'>
+        <div className='aspect-video relative rounded w-full'>
             <iframe
-                title="La Primavera Demo Video"
                 className={`h-full w-full`}
-                src="https://drive.google.com/file/d/1nRWzX47bfebJ1NUuYX9OQb0fHk5dO3FJ/preview"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
+                src="https://www.youtube.com/embed/uCDLfjZnFKc?si=ZZNVTreqn7ENZQSm&vq=hd1080"
+                title="YouTube video player"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin"
                 allowFullScreen
                 seamless
             >

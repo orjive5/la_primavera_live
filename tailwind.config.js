@@ -6,7 +6,7 @@ module.exports = {
     './components/**/*.{ts,tsx}',
     './app/**/*.{ts,tsx}',
     './src/**/*.{ts,tsx}',
-	],
+  ],
   theme: {
     container: {
       center: true,
@@ -16,7 +16,7 @@ module.exports = {
       },
     },
     extend: {
-      fontFamily: { clash: "Clash Display", grotesk: "Space Grotesk" },
+      fontFamily: { clash: "Clash Display", grotesk: "Space Grotesk", niconne: "Niconne" },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
