@@ -19,7 +19,7 @@ const SideDrawer = () => {
                 <SheetTrigger>
                     <Menu className="w-6 h-6 xl:w-7 xl:h-7 text-black opacity-80 hover:opacity-100 cursor-pointer" />
                 </SheetTrigger>
-                <SheetContent className="bg-[#fefbef] w-[200px] sm:w-[300px]">
+                <SheetContent className="bg-[#dbf1f6] w-[200px] sm:w-[300px]">
                     <SheetHeader>
                         <SheetTitle className="text-base xl:text-lg">
                             La Primavera
