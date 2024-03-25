@@ -17,7 +17,7 @@ const Introduction = () => {
       </div>
       <div className="mt-5 mb-10 leading-none tracking-wide text-center">
         <div>
-          <p className="text-2xl sm:text-3xl md:text-4xl lg:text-4xl font-semibold">Gudački Kvartet</p>
+          <p className="text-md sm:text-2xl md:text-3xl lg:text-4xl font-semibold">Gudački Kvartet</p>
           <h1 className="font-niconne inline-block text-4xl sm:text-6xl md:text-6xl lg:text-8xl font-medium">
             La Primavera
           </h1>
